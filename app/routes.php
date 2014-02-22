@@ -11,7 +11,6 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('index');
-});
+Route::get('/', 'PagesController@index');
+
+Route::get('clerk', 'ClerkController@clerk');
