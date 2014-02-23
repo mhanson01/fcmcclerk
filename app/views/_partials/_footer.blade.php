@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="col-xs-12">
                     <div class="page-header">
-                        <h1>Franklin County Municipal Court <small>Clerk of Court Lori M. Tyack</small></h1>
+                        <h1>Franklin County Municipal Court <small>Clerk {{ Config::get('fcmc.clerk_full_name') }}</small></h1>
                     </div>
                     <ul class="list-inline" style="color: #eee;">
                         <li>Search Cases</li>

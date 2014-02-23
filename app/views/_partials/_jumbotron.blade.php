@@ -9,7 +9,7 @@
                         </div>
                         <div class="col-xs-8 col-sm-10 col-md-9">
                             <div class="page-header" style="border-color:#666; margin: 0; padding: 0;">
-                                <h1>Franklin County Municipal Court<br><small>Clerk Lori M. Tyack</small></h1>
+                                <h1>Franklin County Municipal Court<br><small>Clerk  {{ Config::get('fcmc.clerk_full_name') }}</small></h1>
                             </div>
                             <p class="lead">375 South High Street, Columbus, Ohio 43215</p>
                         </div>
