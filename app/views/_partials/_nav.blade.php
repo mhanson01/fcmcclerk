@@ -40,7 +40,7 @@
                         <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Court <b class="caret"></b></a>
                           <ul class="dropdown-menu">
-                            <li><a href="#">Judges</a></li>
+                            <li><a href="/court/judges">Judges</a></li>
                             <li><a href="#">Magistrates</a></li>
                             <li class="divider"></li>
                             <li><a href="#">Local Rules</a></li>
