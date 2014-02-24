@@ -2,6 +2,10 @@
 
 @section('content')
 
+        @include('_partials._jumbotron')
+
+        @include('_partials._featured')
+
         <div style="background-color:#eee;">
             <div class="container">
 
