@@ -1,6 +1,6 @@
 <?php
 
-class ClerkController extends BaseController implements AgencyInterface {
+class CourtController extends BaseController implements AgencyInterface {
 
 	public function index()
 	{
@@ -13,13 +13,13 @@ class ClerkController extends BaseController implements AgencyInterface {
 	}
 
 	/**
-	 * Display Clerk index
+	 * Display Local Rules
 	 *
 	 * @return response
 	 */
-	public function clerk()
+	public function localRules()
 	{
-		return 'clerk';
+		return 'localrules';
 	}
 
 }
