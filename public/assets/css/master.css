@@ -1,4 +1,11 @@
 
+/* Global CSS Rules */
+
+html,body {
+    height:100%; /* needed for container min-height */
+    background:#000;
+}
+
 .fcmcclerk {
     color: #fff;
     font-weight: bold;

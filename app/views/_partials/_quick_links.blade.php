@@ -1,4 +1,5 @@
 
+<!-- Quick Links  -->
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Quick Links</h3>
@@ -10,3 +11,5 @@
                                 <a href="#" class="list-group-item">Mediation</a>
                             </div>
                         </div>
+
+<!-- /Quick Links  -->

@@ -1,4 +1,5 @@
 
+<!-- Navigation  -->
         <div style="background-color: #222;">
                 <nav class="navbar navbar-default navbar-inverse" role="navigation" style="margin-bottom: 0;">
                   <div class="container">
@@ -10,7 +11,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand" href="#">FCMC</a>
+                      <a class="navbar-brand" href="/">FCMC</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -90,3 +91,5 @@
                   </div><!-- /.container-fluid -->
                 </nav>
         </div>
+
+<!-- /Navigation  -->

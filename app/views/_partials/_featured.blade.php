@@ -1,4 +1,5 @@
 
+<!-- Featured links -->
 
         <div style="background-color:#eee; padding-top: 25px;">
             <div class="container">
@@ -46,3 +47,5 @@
                 </div>
             </div>
         </div>
+
+<!-- /Featured Links  -->

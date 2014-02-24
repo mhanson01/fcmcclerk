@@ -1,4 +1,6 @@
 
+<!-- Footer  -->
+
         <div style="background-color:#666; padding-bottom: 100px;">
             <div class="container">
                 <div class="col-xs-12">
@@ -14,3 +16,5 @@
                 </div>
             </div>
         </div>
+
+<!-- /Footer  -->

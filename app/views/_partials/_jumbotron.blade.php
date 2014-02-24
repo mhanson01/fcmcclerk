@@ -1,4 +1,5 @@
 
+<!-- Jumbotron  -->
 
         <div style="background-color:#666; padding-top: 25px; background-image: url('/assets/images/legal-folders-try2.jpg'); background-size:100% auto;">
             <div class="container">
@@ -23,3 +24,5 @@
                 </div>
             </div>
         </div>
+
+<!-- /Jumbotron  -->
