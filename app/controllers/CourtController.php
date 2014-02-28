@@ -71,7 +71,7 @@ class CourtController extends BaseController implements AgencyInterface {
 	{
 		$view = 'court.judges.' . $name;
 
-		if (! View::exists($view))
+		if ( ! View::exists($view))
 		{
 			App::abort(404);
 		}
