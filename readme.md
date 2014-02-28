@@ -4,6 +4,7 @@ This is the Development Website for the Franklin County Municipal Court Clerk's 
 
 ## Frameworks and Components
 
+* [Composer](https://getcomposer.org/)
 * [Laravel](http://laravel.com)
 * [Twitter Bootstrap](http://getbootstrap.com)
 * [jQuery](http://jquery.com)
