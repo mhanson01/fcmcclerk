@@ -15,7 +15,7 @@ class JudgesController extends BaseController {
 	/**
 	 * Display the specified resource.
 	 *
-	 * @param  int  $id
+	 * @param  string  $name
 	 * @return Response
 	 */
 	public function show($name)
