@@ -34,4 +34,6 @@ Route::group(['prefix' => 'court'], function()
 	Route::get('judges', 'CourtController@judges');
 	Route::get('judges/{name}', 'CourtController@showJudge');
 	Route::get('local_rules', 'CourtController@localRules');
+
+    //Route::resource('judges', ['only' => 'index', 'show']);
 });
