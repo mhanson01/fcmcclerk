@@ -2,6 +2,8 @@
 
 @section('content')
 
-	placeholder
+	<div style="background-color: white;">
+        placeholder
+	</div>
 
 @stop

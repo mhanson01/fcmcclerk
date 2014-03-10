@@ -52,31 +52,4 @@ class CourtController extends BaseController implements AgencyInterface {
 		return 'localrules';
 	}
 
-	/**
-	 * Display Judges
-	 *
-	 * @return response
-	 */
-	public function judges()
-	{
-		return View::make('court.judges');
-	}
-
-	/**
-	 * Display Judges
-	 *
-	 * @return response
-	 */
-	public function showJudge($name)
-	{
-		$view = 'court.judges.' . $name;
-
-		if ( ! View::exists($view))
-		{
-			App::abort(404);
-		}
-
-		return View::make($view);
-	}
-
 }
